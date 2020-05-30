@@ -1,0 +1,7 @@
+#oh my zsh
+zsh-users/zsh-syntax-highlighting
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-completions
+ohmyzsh/ohmyzsh path:plugins/z
+https://bitbucket.org/ttys3/agkozak-zsh-prompt.git
+
