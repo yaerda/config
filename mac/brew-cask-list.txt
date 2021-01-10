@@ -1,0 +1,14 @@
+adoptopenjdk8
+anydesk
+font-fira-code-nerd-font
+google-chrome
+hackintool
+hyperswitch
+iterm2
+karabiner-elements
+mos
+snipaste
+teamviewer
+telegram
+wechat
+zerotier-one

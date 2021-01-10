@@ -53,3 +53,7 @@ set list
 "Tab，会显示所有匹配的操作指令的清单；第二次按下 Tab，会依次选择各个指令
 set wildmenu
 set wildmode=longest:list,full
+"主题
+set laststatus=2
+let g:airline_theme='one'
+colorscheme one
