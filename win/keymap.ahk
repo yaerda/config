@@ -1,3 +1,5 @@
+CapsLock & `;::/
+^;:: Send {?}
 /*
 大写键+w/a/s/d : 方向键 ↑←↓→ 
 */
@@ -7,8 +9,9 @@ CapsLock & d::Right
 CapsLock & s::Down
 
 /* 
-大写键+r/f 上/下翻页
+大写键 + r/f 上下翻页
 */
+
 CapsLock & r::PgUp
 CapsLock & f::PgDn
 
@@ -34,3 +37,4 @@ CapsLock & c::^ #Right
 大写键 + v : 历史剪贴板
  */
 CapsLock & v:: #v
+
